@@ -1,6 +1,6 @@
 from curses import keyname
 from distutils.dep_util import newer_pairwise
-from corpus_loader import word_list, name_list
+from caesar_cipher.corpus_loader import word_list, name_list
 import enum
 
 
